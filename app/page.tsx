@@ -542,7 +542,7 @@ export default function Home() {
           {/* Bottom Section */}
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-gray-400">
-              © 2025 Protection One PK. All rights reserved.
+              © 2026 Protection One PK. All rights reserved.
             </p>
           </div>
         </div>
